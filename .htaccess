@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /Perpustakaan/
+RewriteBase /Crud_Perusahaan/
 
 # Redirect non-www to www (optional)
 # RewriteCond %{HTTP_HOST} ^localhost [NC]
